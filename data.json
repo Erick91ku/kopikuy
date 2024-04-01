@@ -1,0 +1,50 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino",
+            "size": "150 Gram",
+            "harga": "38.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "size": "180 Gram",
+            "harga": "27.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte",
+            "size": "150 Gram",
+            "harga": "36.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu",
+            "size": "150 Gram",
+            "harga": "24.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/aromatic_robusta.jpeg",
+            "nama": "Robusta Aromatic",
+            "size": "120 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=robusta+aromatic&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/esteh_manis.jpg",
+            "nama": "Es Teh Manis",
+            "size": "180 Gram",
+            "harga": "19.000",
+            "link": "https://www.google.com/search?q=esteh+manis&tbm=shop"
+        }
+    ]
+}
